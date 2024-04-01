@@ -1,0 +1,32 @@
+[
+    {
+        "salary_tag": "от 200 000 ₽",
+        "company_name": "Институт Географических Информационных Технологий",
+        "address": "Москва",
+        "link": "https://spb.hh.ru/vacancy/95127432?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "salary_tag": "от 150 000 ₽",
+        "company_name": "ООО Люди ПРО Групп",
+        "address": "Москва",
+        "link": "https://spb.hh.ru/vacancy/95787634?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "salary_tag": "зарплата не указана",
+        "company_name": "ООО Лаборатория 50",
+        "address": "Санкт-Петербург",
+        "link": "https://spb.hh.ru/vacancy/95525588?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "salary_tag": "зарплата не указана",
+        "company_name": "Qualitica",
+        "address": "Москва",
+        "link": "https://spb.hh.ru/vacancy/95214807?query=python&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "salary_tag": "зарплата не указана",
+        "company_name": "Ростелеком - Центры обработки данных",
+        "address": "Москва",
+        "link": "https://spb.hh.ru/vacancy/95864963?query=python&hhtmFrom=vacancy_search_list"
+    }
+]
